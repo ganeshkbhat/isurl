@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/ganeshkbhat/isurl/issues"
   },
-  "homepage": "https://github.com/ganeshkbhat/isurl#readme"
+  "homepage": "https://github.com/ganeshkbhat/isurl#readme",
+  "devDependencies": {
+    "chai": "^6.2.0",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.0"
+  }
 }
