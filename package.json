@@ -1,0 +1,24 @@
+{
+  "name": "isurl",
+  "version": "1.0.0",
+  "description": "check if the provided string is an url",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/isurl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/isurl/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/isurl#readme"
+}
