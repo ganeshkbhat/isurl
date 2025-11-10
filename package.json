@@ -1,5 +1,5 @@
 {
-  "name": "isurl",
+  "name": "check-isurl",
   "version": "1.0.1",
   "description": "check if the provided string is an url",
   "main": "index.js",
